@@ -1,9 +1,9 @@
 class Archon < Formula
   desc "AI Orchestration Harness CLI - Install structured AI workflows per project"
   homepage "https://github.com/AlexCas/archon-ai"
-  url "https://github.com/AlexCas/archon-ai/archive/refs/tags/v0.8.0.tar.gz"
-  sha256 "94b44a9e27c4c6061ad4e733451cd3ccf22baff68bb78d5750a462e6f0a08d50"
-  version "0.8.0"
+  url "https://github.com/AlexCas/archon-ai/archive/refs/tags/v0.8.1.tar.gz"
+  sha256 "c0a40b7653901d7f8539a0e43c21269ab7ecbe1562df29118bfc7da30f3e4815"
+  version "0.8.1"
   license "MIT"
 
   depends_on "go" => :build
